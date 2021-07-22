@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jwnmoon
+- 👋 Hi, I’m Jiwon, a sophomore studying CS at St Olaf college.
 - 📫 How to reach me : linkedin/in/jwnmoon
 
 
